@@ -1,4 +1,4 @@
-package Lection1;
+package HW1;
 
 public class HomeWorkApp {
     public static void main(String[] args){
@@ -45,4 +45,3 @@ public class HomeWorkApp {
     }
 
 }
-
